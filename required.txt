@@ -1,0 +1,4 @@
+langchain
+OPENAI_API_KEY
+ nltk
+dotenv
