@@ -1,4 +1,4 @@
-langchain
-OPENAI_API_KEY
- nltk
-dotenv
+langchain: For LLM and search tool integration.
+OPENAI_API_KEY: Environment variable for OpenAI API access.
+nltk: For text preprocessing.
+dotenv: For loading environment variables.
